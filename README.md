@@ -5,6 +5,9 @@ A comprehensive ROS 2 based mobile robot system featuring voice interaction and 
 [演示视频](assets/result.mp4){target="_blank"}
 
 （或者直接在assets文件夹里面下载）
+<video width="600" controls>
+  <source src="./assets/result.mp4" type="video/mp4">
+</video>
 
 
 ## 项目概述
