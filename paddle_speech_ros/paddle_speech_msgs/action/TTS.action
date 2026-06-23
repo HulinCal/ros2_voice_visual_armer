@@ -1,0 +1,10 @@
+# Goal: Text to synthesize
+string text
+---
+# Result: Synthesis result
+bool success
+string message
+float32 duration
+---
+# Feedback: Progress
+float32 progress

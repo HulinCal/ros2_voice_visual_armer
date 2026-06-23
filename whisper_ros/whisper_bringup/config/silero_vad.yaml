@@ -1,0 +1,13 @@
+# Silero VAD node parameters
+/whisper/silero_vad_node:
+  ros__parameters:
+    enabled: true
+    model_repo: ""
+    model_filename: ""
+    model_path: "/usr/models/silero_vad.onnx"
+    sample_rate: 16000
+    frame_size_ms: 32
+    threshold: 0.3
+    min_silence_ms: 500
+    speech_pad_ms: 100
+    use_cuda: false

@@ -1,0 +1,12 @@
+# Goal: User input text
+string text
+---
+# Result: Generated full response
+string response
+bool success
+string message
+---
+# Feedback: Progress and partial results
+float32 progress
+string partial_response
+string status

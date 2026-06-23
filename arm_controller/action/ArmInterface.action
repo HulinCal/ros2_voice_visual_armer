@@ -1,0 +1,15 @@
+# Goal: Arm command request
+string command           # Command type: forward, backward, turnleft, turnright, stop, move_apple, move_cube, etc.
+float32[] params         # Optional parameters for the command
+
+---
+# Result: Execution result
+bool success             # Whether the command was executed successfully
+string message           # Status message
+float32 execution_time   # Time taken to execute the command (seconds)
+
+---
+# Feedback: Execution progress
+float32 progress         # Progress percentage (0.0-1.0)
+string status            # Current status
+string partial_result    # Partial execution result
