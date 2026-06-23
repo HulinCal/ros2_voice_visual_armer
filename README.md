@@ -9,6 +9,8 @@ A comprehensive ROS 2 based mobile robot system featuring voice interaction and 
   <source src="./assets/result.mp4" type="video/mp4">
 </video>
 
+![](https://github.com/HulinCal/ros2_voice_visual_armer/blob/main/assets/result.mp4){target="_blank"}
+
 
 ## 项目概述
 
