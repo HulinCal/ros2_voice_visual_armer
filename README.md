@@ -2,7 +2,7 @@
 
 A comprehensive ROS 2 based mobile robot system featuring voice interaction and visual control capabilities.
 
-[演示视频](https://github.com/HulinCal/ros2_voice_visual_armer/assets/result.mp4){target="_blank"}
+[演示视频](assets/result.mp4){target="_blank"}
 
 
 ## 项目概述
